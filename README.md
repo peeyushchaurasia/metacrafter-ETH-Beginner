@@ -1,5 +1,10 @@
 Solidity Assessment Submission: I have submitted this straightforward project for the Solidity assessment. Token minting and burning are permitted under the contract, which also maintains account balances.
 
+Permission to Use
+Both the project and the agreement make use of the MIT license.
+// SPDX-License-Identifier: MIT
+
+
 Qualities
 The following are included in the contract:
 
